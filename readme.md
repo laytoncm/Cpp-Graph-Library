@@ -1,3 +1,7 @@
+## Data Structures and Algorithms Final Project Contributions
+
+This repository contains a combination of files to create a C++ Graph library. For our final project, myself and four other group members were to read the code, understand the code, contribute test cases, and present them to the professor. Our contribution to the may be seen in the Test.cpp file listed above.
+
 ## C++ Graph Library
 
 This library consists of *.h and *.cpp files, most-importantly: Graph.h and Graph.cpp. Including these files will allow the user to instantiate 'Graph' objects to model graph-related problems. Graphs are persistent (ie they can be written to disk as *.txt files for later retrieval through a read-from-file Graph constructor). 
